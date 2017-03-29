@@ -1,0 +1,22 @@
+{
+  "name": "cookieclicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emilie-dev/CookieClicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emilie-dev/CookieClicker/issues"
+  },
+  "homepage": "https://github.com/Emilie-dev/CookieClicker#readme",
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}
