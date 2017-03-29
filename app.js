@@ -1,0 +1,4 @@
+$(".img-circle").click(function() {
+	
+
+});
